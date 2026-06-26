@@ -12,5 +12,4 @@ public class CreatePatientRecordDto
 
     public string Notes { get; set; }
     
-    public DateTime RecordDate { get; set; }
 }

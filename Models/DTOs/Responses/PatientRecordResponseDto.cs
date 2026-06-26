@@ -15,6 +15,8 @@ public class PatientRecordResponseDto
     public string Notes { get; set; }
     
     public DateTime RecordDate { get; set; }
+   
+    public string PatientNumber { get; set; }
     
-    public Patient Patient { get; set; }
+    public string PatientName { get; set; }
 }

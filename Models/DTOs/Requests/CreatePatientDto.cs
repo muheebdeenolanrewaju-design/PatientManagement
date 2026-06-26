@@ -7,6 +7,5 @@ public class CreatePatientDto
      public string Email { get; set; }
         
      public DateTime DateOfBirth { get; set; }
-        
-     public DateTime DateRegistered { get; set; }
+     
 }
